@@ -10,7 +10,7 @@ function formatMessage(message, maxLength) {
     }
   
     
-    /// Change code above this line
+    
     return result;
   }
   
